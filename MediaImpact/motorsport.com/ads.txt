@@ -1,3 +1,6 @@
+ownerdomain=de.motorsport.com
+managerdomain=mediaimpact.de
+
 # Motorsport Network
 
 # ads.txt file for de.motorsport.com
