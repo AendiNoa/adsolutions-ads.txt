@@ -38,3 +38,7 @@ spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 #END Media Impact
+
+
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
